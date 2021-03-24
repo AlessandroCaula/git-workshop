@@ -1,1 +1,1 @@
-Main text merged with Branch1 text
+this is a test of the Branch1
